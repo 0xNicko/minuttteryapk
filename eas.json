@@ -4,9 +4,7 @@
     "appVersionSource": "remote"
   },
   "build": {
-    "base": {
-      "pnpm": "10.12.3"
-    },
+    "base": {},
     "development": {
       "extends": "base",
       "developmentClient": true,
